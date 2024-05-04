@@ -35,5 +35,10 @@
     user: root
     #ssh_key: ~/.ssh/hetzner_rsa
   #passphrase: Monster1029
-  docker_env:
-    DOCKER_HOST: 5.78.116.121
+  #docker_env:
+    #DOCKER_HOST: 5.78.116.121
+
+    builder:
+      remote:
+        arch: arm64
+        

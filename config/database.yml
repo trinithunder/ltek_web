@@ -53,4 +53,4 @@ production:
   <<: *default
   database: ltek_web_production
   username: ltek_web
-  password: <%= ENV["LTEK_WEB_DATABASE_PASSWORD"] %>
+  password: D0BQd_8xR/bzfPAU

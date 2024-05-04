@@ -1,0 +1,1 @@
+CREATE DATABASE ltek_web_production;
